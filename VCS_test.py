@@ -1,6 +1,6 @@
 """Demo program for VCS"""
 
-
+# Added comment.
 def main():
     print_greeting()
 
